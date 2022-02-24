@@ -1,4 +1,5 @@
-📊 **this week i spent my time on:**
+<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+📊 **this week i spent my time on:** 
 <!--START_SECTION:waka-->
 ```text
 Your mom          20 hrs 29 mins  ██████████████████▓░░░░░░   74.42 % 
