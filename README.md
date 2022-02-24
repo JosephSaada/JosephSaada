@@ -1,7 +1,3 @@
-<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-
-
-<span>
 📊 **this week i spent my time on:**  
 <!--START_SECTION:waka-->
 ```text
@@ -11,6 +7,5 @@ Scratch Coding    2 hrs 12 mins   ██░░░░░░░░░░░░░�
 Hibiscus Lemonade 1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 Star Wars         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
-<!--END_SECTION:waka-->
-</span> 
-<img height="100" alt="Music" src="images/music.gif"> 
+<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+
