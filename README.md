@@ -30,7 +30,7 @@ I'm actively seeking my next challenge—an opportunity where I can further leve
 Feel free to explore my projects and drop me a line if you'd like to discuss collaboration opportunities!
 
 - [GitHub](https://github.com/JosephSaada)
-- [LinkedIn](https://www.linkedin.com/in/josephsaada)
+- [LinkedIn](https://www.linkedin.com/in/joseph-saada)
 
 ---
 
