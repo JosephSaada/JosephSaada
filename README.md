@@ -1,5 +1,42 @@
-Hello, I'm Joseph Saada—a passionate Software Engineer who earned my Bachelor of Science in Software Engineering from UC Irvine in just three years. Drawing upon a robust technical skill set in Python, JavaScript, Java, TypeScript, and modern frameworks like React and AWS, I've effectively contributed to innovative projects and transformative solutions throughout my career.
+# Hi, I'm Joseph Saada 👋
 
-At Walmart Global Tech, I played a key role in building a site from the ground up using React (TypeScript) and Java Spring Boot, significantly improving internal microsite management and saving developers valuable time. I departed from that role as part of a company restructuring, which has opened the door for me to explore new and exciting opportunities. I am now actively seeking my next challenge where I can further leverage my skills, creativity, and passion for technology to make a significant impact.
+I'm a passionate Software Engineer with a strong foundation built during an accelerated journey at the University of California, Irvine—where I earned my Bachelor of Science in Software Engineering in just three years. I thrive on turning innovative ideas into real-world solutions using technologies like **Python**, **JavaScript**, **Java**, **TypeScript**, **React**, **AWS**, and more.
 
-Thank you!
+---
+
+## About Me
+
+I love creating transformative solutions that streamline processes and improve user experiences. My technical acumen, paired with an eagerness to embrace new challenges, has driven me to contribute to projects that make a difference. When I'm not coding, you'll find me exploring modern development trends and refining my craft.
+
+---
+
+## Professional Experience
+
+- **Walmart Global Tech**  
+  - **Built from Scratch:** Developed a site using React (TypeScript) and Java Spring Boot to empower developers to manage internal microsites seamlessly.  
+  - **Efficiency Improvement:** Enhanced internal microsite management, saving developers valuable time by significantly reducing manual interventions.  
+  - **New Opportunities:** Departed as part of a company restructuring, which has now opened the door for me to pursue new and exciting challenges.
+
+---
+
+## What I'm Looking For
+
+I'm actively seeking my next challenge—an opportunity where I can further leverage my technical skills, creativity, and passion for technology to drive impactful solutions.
+
+---
+
+## Let's Connect
+
+Feel free to explore my projects and drop me a line if you'd like to discuss collaboration opportunities!
+
+- [GitHub](https://github.com/JosephSaada)
+- [LinkedIn](https://www.linkedin.com/in/josephsaada)
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephSaada&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephSaada&layout=compact&theme=default)
+
+Thank you for visiting!
