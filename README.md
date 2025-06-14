@@ -29,14 +29,8 @@ I'm actively seeking my next challenge—an opportunity where I can further leve
 
 Feel free to explore my projects and drop me a line if you'd like to discuss collaboration opportunities!
 
-- [GitHub](https://github.com/JosephSaada)
 - [LinkedIn](https://www.linkedin.com/in/joseph-saada)
 
 ---
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephSaada&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephSaada&layout=compact&theme=default)
 
 Thank you for visiting!
