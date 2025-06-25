@@ -21,7 +21,7 @@ I love creating transformative solutions that streamline processes and improve u
 
 ## What I'm Looking For
 
-I'm actively seeking my next challenge—an opportunity where I can further leverage my technical skills, creativity, and passion for technology to drive impactful solutions.
+I'm actively seeking my next challenge, an opportunity where I can further leverage my technical skills, creativity, and passion for technology to drive impactful solutions.
 
 ---
 
