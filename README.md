@@ -12,7 +12,7 @@ I love creating transformative solutions that streamline processes and improve u
 
 ## Professional Experience
 
-- **Walmart Global Tech**  
+- **Walmart Global Tech** (June 2024 - June 2025)
   - **Built from Scratch:** Developed a site using React (TypeScript) and Java Spring Boot to empower developers to manage internal microsites seamlessly.  
   - **Efficiency Improvement:** Enhanced internal microsite management, saving developers valuable time by significantly reducing manual interventions.  
   - **New Opportunities:** Departed as part of a company restructuring, which has now opened the door for me to pursue new and exciting challenges.
