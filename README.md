@@ -1,6 +1,6 @@
 # Hi, I'm Joseph Saada 👋
 
-I'm a passionate Software Engineer with a strong foundation built during an accelerated journey at the University of California, Irvine—where I earned my Bachelor of Science in Software Engineering in just three years. I thrive on turning innovative ideas into real-world solutions using technologies like **Python**, **JavaScript**, **Java**, **TypeScript**, **React**, **AWS**, and more.
+I'm a passionate Software Engineer with a strong foundation built during an accelerated journey at the University of California, Irvine. Where I earned my Bachelor of Science in Software Engineering in just three years. I thrive on turning innovative ideas into real-world solutions using technologies like **Python**, **JavaScript**, **Java**, **TypeScript**, **React**, **AWS**, and more.
 
 ---
 
