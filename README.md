@@ -10,8 +10,9 @@ I love creating transformative solutions that streamline processes and improve u
 
 ---
 
-## Professional Experience
-
+## Professional Experience 
+- **Optimizely** (April 2026 - Now)
+  - In Progress 
 - **Walmart Global Tech** (June 2024 - June 2025)
   - **Built from Scratch:** Developed a site using React (TypeScript) and Java Spring Boot to empower developers to manage internal microsites seamlessly.  
   - **Efficiency Improvement:** Enhanced internal microsite management, saving developers valuable time by significantly reducing manual interventions.  
@@ -21,7 +22,7 @@ I love creating transformative solutions that streamline processes and improve u
 
 ## What I'm Looking For
 
-I'm actively seeking my next challenge, an opportunity where I can further leverage my technical skills, creativity, and passion for technology to drive impactful solutions.
+Nothing in terms of jobs. Startup or business talks are welcome
 
 ---
 
